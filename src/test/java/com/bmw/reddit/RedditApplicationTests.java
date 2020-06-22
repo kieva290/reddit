@@ -10,8 +10,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class RedditApplicationTests {
 
     public RedditApplicationTests() {}
-// 	@Test
-// 	void contextLoads() {
-// 	}
+	
+    @Test
+	public void contextLoads() {
+	}
 
 }
